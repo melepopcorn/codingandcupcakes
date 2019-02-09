@@ -1,7 +1,9 @@
 html, body {
-	background: #f5c9c9;
+	/*background: #f5c9c9;*/
+  background: #ff1493;
 	font-family: 'Lato', sans-serif;
-	color: #6C6B6B;
+	/*color: #6C6B6B;*/
+  color: #7719aa;
 	margin: 0px;
 	padding: 0px;
 	overflow-x: hidden;
@@ -83,7 +85,7 @@ ul.menu li  a.selected {
 }
 
 .content .inner {
-	background: #fff;
+	background: #ff1493;
 }
 
 .video {
